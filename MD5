@@ -1,0 +1,17 @@
+54343f6a758087e6005cfae9b9ea1cda *DESCRIPTION
+7e2bf39fcd1aa643782a73273e4a3aaa *NAMESPACE
+2a08163a512e7ef156c88f85c81e9870 *NEWS.md
+57c5535a9287381ec15a9788a2e7db61 *R/fracdist.R
+53a852ecf2290b5277656dbbaca09b7a *R/sysdata.rda
+eb929a27c4355723a98f14e8687dab88 *man/blocal.Rd
+792058fd8b51f011e81b9cb3d6d126c0 *man/check_fracdist_params.Rd
+e911c5701c8ef6062bc10da0d018fd5a *man/dot-fracdist.Rd
+b0940dbdba4eb1f74bfd9f7b8b79c99b *man/fpcrit.Rd
+274ceeaff7ae837729e3a162d403089b *man/fpval.Rd
+c0a8e75b6295aa533357e78dfb98034b *man/fracdist_pvalues.Rd
+6f34c7d7673f59edb73d94d6772f0f58 *man/fracdist_values.Rd
+a2618d14d2c9babb8b35f908a8f0577d *man/get_fracdist_tab.Rd
+783e0d0c291e921b94c8ffa820e4aba9 *tests/testthat.R
+67dae33225e0b40d61e7925b87db3998 *tests/testthat/test_chi2.R
+9f077140dfa708973fe1c6c2401830c1 *tests/testthat/test_fcval.R
+0162a15e668da125f1590c0e345dff33 *tests/testthat/test_fpval.R
